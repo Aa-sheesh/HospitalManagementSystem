@@ -1,5 +1,5 @@
 # Hospital Management System Prototype
-*** Welcome to the Hospital Management System (HMS) prototype project for Bel Kotdwar! This project is aimed at creating a comprehensive and efficient management system to streamline hospital operations, improve patient care, and enhance administrative workflow. ***
+***Welcome to the Hospital Management System (HMS) prototype project for Bel Kotdwar! This project is aimed at creating a comprehensive and efficient management system to streamline hospital operations, improve patient care, and enhance administrative workflow.***
 
 ## Overview
 *This prototype encompasses the key functionalities required for a hospital management system, including patient registration, appointment scheduling, doctor management, billing, and medical records handling. It is designed to be user-friendly, secure, and scalable to meet the specific needs of Bel Kotdwar's healthcare infrastructure.*
